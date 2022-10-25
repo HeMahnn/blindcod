@@ -1,0 +1,2 @@
+# blindcod
+Blind script
